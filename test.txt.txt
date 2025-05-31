@@ -1,0 +1,3 @@
+new file added test.txt
+
+test.txt modified by dev2
